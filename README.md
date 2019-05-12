@@ -57,7 +57,7 @@ https://afternoon-eyrie-61635.herokuapp.com/
 - **[Team Plan & Chat](#Team-Plan-Chat)**
   - **[Trello](#Trello)**
   - **[Slack](#Slack)**
-
+  - **[Presentation](#Presentation)**
 
 ## <a id="Concept"></a>Concept
 ### <a id="Challenge"></a>Challenge
@@ -305,3 +305,8 @@ As legal obligations in relation to handling user data vary across different cou
 ### <a id="Slack-Communication"></a>Slack Communication
 ![Slackchat1](https://i.imgur.com/m1GAX8q.png)
 ![Slackchat2](https://i.imgur.com/8TPckM1.png)
+
+### <a id="Presentation"></a>Presentation
+
+
+https://docs.google.com/presentation/d/1xSNyStIPU3_WytLAGi_eyNvCs4BVLupUiGCnLWpc9XY/edit#slide=id.g723630543_5_23
